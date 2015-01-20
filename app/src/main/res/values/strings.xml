@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="weekForecast">
+        <item>Hoy - Soleado - 19-30</item>
+        <item>Mañana - Nublado - 15-20</item>
+        <item>Sábado - Lluvioso - 10-23</item>
+        <item>Domingo - Nieve - 0-3</item>
+        <item>Lunes - Niebla - 6-10</item>
+        <item>Martes - Tormenta - 10-12</item>
+        <item>Miércoles - Plaga de langostas - 0-0</item>
+    </array>
+
+    <string name="app_name">Forecast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
